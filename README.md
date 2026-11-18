@@ -37,7 +37,7 @@ pip install pandas numpy scikit-learn seaborn matplotlib notebook
 jupyter notebook
 ```
 
-Open the notebook and change the `pd.read_csv(...)` path in the first cell to the `fatalities.csv` in this folder.
+Open the notebook from inside the `Tobacco Use and Mortality Prediction Model/` folder. It reads `fatalities.csv` from that same folder.
 
 ## Status and results
 
